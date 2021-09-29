@@ -11,6 +11,7 @@ In total, there are three notebooks.
 ### gaf-playground
 
 This notebook contains code to explore how GAF images are created based on timeseries data.
+You should check it out first to understand why comparing timeseries of different length is not possible.
 
 ### incident-acc-image-generation.ipynb
 
